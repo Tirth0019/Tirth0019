@@ -69,7 +69,7 @@ OpenEnv-compliant RL environment for evaluating LLM code review agents. Three ta
 ```
 Languages   C++  Python  TypeScript  JavaScript  SQL  Go (learning)
 Frontend    Next.js  React  TailwindCSS
-Backend     Node.js  Express  Spring Boot  Supabase  Redis
+Backend     Node.js  Express Supabase  Redis
 ML / Quant  NumPy  Pandas  PyMC  CVXPY  Scikit-learn  HMMlearn
 Tools       Docker  Git  CMake  Matlab
 ```
